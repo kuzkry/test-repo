@@ -2,8 +2,7 @@
 
 auto main() -> int 
 {
-    std::cout << "Hello kryskuz\n";
+    std::cout << "Hello kuzkry\n";
     return 0;
 }
-
 
